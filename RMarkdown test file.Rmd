@@ -26,6 +26,8 @@ head(mtcars)
 summary(mtcars)
 ```
 
-
+```{r}
+str(mtcars)
+```
 
 
